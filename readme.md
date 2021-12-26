@@ -3,12 +3,12 @@
 
 Содержание:
 
-[О GitHub](./pages/about.md)
+[О GitHub](./pages/about.md "GitHub — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки")
 
 
-[Установка и настройка](./pages/setup_conf.md)
+[Установка и настройка](./pages/setup_conf.md " ")
 
-[Создание репозитория](./pages/crepo.md)
+[Создание репозитория](./pages/crepo.md " ")
 
 - Основные комадны
     - [git add](./pages/add.md)
