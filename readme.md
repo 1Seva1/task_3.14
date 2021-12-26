@@ -10,7 +10,17 @@
 
 [Создание репозитория](./pages/crepo.md)
 
-Основные операции
-  пп1
-  пп2
-  ...
+- Основные комадны
+    - [git add](./pages/add.md)
+    - [git status](./pages/status.md)
+    - [git commit](./pages/commit.md)
+    - [git clean](./pages/clean.md)
+    - [git branch](./pages/branch.md)
+    - [git checkout](./pages/checkout.md)
+    - [git merge](./pages/merge.md)
+    - [git stash](./pages/stash.md)
+    - [git fetch](./pages/fetch.md)
+    - [git pull](./pages/pull.md)
+    - [git push](./pages/push.md)
+
+[Шпаргалка по командам](./pages/crib.md)
